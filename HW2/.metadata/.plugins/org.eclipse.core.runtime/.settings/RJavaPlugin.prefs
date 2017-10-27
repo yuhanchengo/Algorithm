@@ -1,0 +1,5 @@
+JRI_DLL_DIR=/Library/Frameworks/R.framework/Versions/3.3/Resources/library/rJava/jri
+JRI_JAR_DIR=/Library/Frameworks/R.framework/Versions/3.3/Resources/library/rJava/jri
+JVM_DLL_DIR=/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/bin
+R_BIN_DIR=/Library/Frameworks/R.framework/Versions/3.3/Resources/bin
+eclipse.preferences.version=1
